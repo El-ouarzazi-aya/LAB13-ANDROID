@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MapApplication</string>
+    <string name="new_location">Lat: %1$.4f | Lon: %2$.4f | Alt: %3$.1fm | Précision: %4$.1fm</string>
+</resources>
